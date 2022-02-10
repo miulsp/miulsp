@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miulsp
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning UiPath.
-- 💞️ I’m looking to collaborate on ML.
+- 💞️ I’m looking to collaborate on ML, RPA, and AI topics.
 - 📫 How to reach me: GitHub.
 
 <!---
